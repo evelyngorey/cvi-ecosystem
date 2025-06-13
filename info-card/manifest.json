@@ -1,0 +1,25 @@
+{
+  "name": "info-card",
+  "label": "Info Card",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "dependency": "jimu-arcgis",
+  "author": "Esri R&D Center Beijing",
+  "description": "This widget is designed to display clicked features and their related table informaton.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "publishMessages": [
+    "EXTENT_CHANGE",
+    "DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "messageActions": [],
+  "defaultSize": {
+    "width": 200,
+    "height": 200
+  },
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}
