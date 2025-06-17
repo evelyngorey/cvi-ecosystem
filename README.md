@@ -19,3 +19,14 @@ Experience Builder has many out-of-the-box widgets, but they're limited in terms
 This widget simply displays each program's information when the program is selected from the list widget (an out-of-the-box widget) or the map. It also includes a print functionality (still in development). This widget's code is included in this repo.
 
 Additional custom widgets may be built as the tool continues to develop.
+
+## Screenshots of custom widget
+
+![Screenshot 2025-05-19 124055](https://github.com/user-attachments/assets/7ece4bbc-5f2f-48d3-b066-b5b287305458)
+![Screenshot 2025-05-19 124759](https://github.com/user-attachments/assets/4d40ae47-34c9-4042-ab5f-f9fe96a8a23e)
+![Screenshot 2025-05-19 124824](https://github.com/user-attachments/assets/99b3529e-df76-44c0-a19c-b1b365d46adb)
+![Screenshot 2025-05-19 124849](https://github.com/user-attachments/assets/c169bde1-2780-431b-a8c1-4f288c72b450)
+![Screenshot 2025-05-19 131856](https://github.com/user-attachments/assets/9e8279e4-680c-4c8e-870c-fa60ee303f9e)
+
+
+
